@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uygulamam</string>
+    <string name="welcome_message">Merhaba! Uygulamama Hoş Geldiniz</string>
+    <string name="click_count_initial">Butona tıklayın!</string>
+    <string name="click_button_text">Tıkla!</string>
+    <string name="reset_button_text">Sıfırla</string>
+    <string name="app_info">Basit Android Uygulama - v1.0</string>
+</resources>
