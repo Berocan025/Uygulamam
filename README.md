@@ -19,7 +19,26 @@ Modern ve kullanıcı dostu bir Android uygulaması. Material Design prensipleri
 - **ViewBinding** - Güvenli view erişimi
 - **Gradle** - Build sistemi
 
-## 🏗️ Kurulum ve Derleme
+## 🤖 Otomatik Derleme (GitHub Actions)
+
+[![🚀 Android APK & AAB Build](https://github.com/Berocan025/Uygulamam/actions/workflows/build-android.yml/badge.svg)](https://github.com/Berocan025/Uygulamam/actions/workflows/build-android.yml)
+
+**🎉 Müjde!** Artık her kod değişikliğinde otomatik olarak APK ve AAB dosyaları oluşturuluyor!
+
+### 📥 Hazır APK/AAB İndirme:
+1. [GitHub Releases](https://github.com/Berocan025/Uygulamam/releases) sayfasına gidin
+2. En son sürümü bulun
+3. APK veya AAB dosyasını indirin
+4. Telefonunuza yükleyin!
+
+### 🔄 Otomatik İşlemler:
+- ✅ Her `push` işleminde otomatik derleme
+- ✅ Debug ve Release APK oluşturma
+- ✅ Debug ve Release AAB oluşturma
+- ✅ GitHub Releases'te otomatik yayınlama
+- ✅ 30 gün artifact saklama
+
+## 🏗️ Manuel Kurulum ve Derleme
 
 ### Gereksinimler
 
